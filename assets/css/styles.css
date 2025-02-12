@@ -1,0 +1,59 @@
+.main-content {
+    text-align: center;
+}
+
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project {
+    justify-content: center;
+    text-align: center;
+    border: #04AA6D;
+    border-radius: 1px;
+    border-style: dashed;
+    margin-left: 25%;
+}
+
+body {
+    background-color: #2a2a2a;
+    color: #8a8a8a;
+    font-family: MontSerrat, Tahoma,Arial,sans-serif
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    display: flex;
+    justify-content: space-around;
+}
+  
+/* Style the links inside the navigation bar */
+/* .topnav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+} */
+
+/* .topnav-right {
+}
+
+.topnav-left {
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+} */
+
+img {
+    height: 100px;
+    width: 100px;
+}
